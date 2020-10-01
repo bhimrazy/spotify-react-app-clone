@@ -5,6 +5,7 @@
     overflow-y: overlay;
     flex: 0.8;
     color: white;
+    overflow-y: overlay;
     background: linear-gradient(transparent, rgba(0, 0, 0, 1));
     background-color: rgb(91, 87, 115);
 }
